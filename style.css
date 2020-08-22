@@ -1,0 +1,131 @@
+body{
+    margin: 0;
+    text-align: center;
+    color: #40514E;
+   
+    
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color:#EAF6F6;
+    border-width: 5px;
+    width: 20px;
+}
+    
+h1{
+    color: #66BFBF;
+    
+}
+h2{
+    color: #66BFBF;
+    padding-bottom: 10px;
+}
+h3{
+    text-align: center;
+   color:  #66BFBF;}
+
+.fut{
+    text-decoration-line:underline ;
+}
+.yokarky{
+    
+    padding-top: 10%;
+    background-color: #EAF6F6;    
+    margin: 0;
+}
+}
+.ortaky{
+    margin: 100px 0;
+    background-color:#40514E ;
+    text-align: left;
+  
+
+}
+.ashaky{
+    background-color: #66BFBF;
+
+}
+ .top{ 
+   top:5%;
+   left: 5%;;
+    width: 15%;
+    height: 22%;
+     position: absolute;
+ }
+.top1
+{top: 5%;
+    right: 5%;
+    width: 15%;
+    height: 22%;
+     position: absolute;
+}
+.saha{  
+    width: 50%;
+    height: 50%;
+     position: relative;
+
+}
+
+.kupa{
+    padding-top: 10%;
+    border-radius: 50%;
+    height: 100px;
+    weight: 100px;
+}
+.uky{
+     padding-top: 0;  
+    width: 20%;
+    height: 20%;
+    border-radius: 50%;
+    float: left;
+    
+}
+.yatmak{ 
+    text-align: left;
+    margin: 5% 25% 5% 25%;
+    word-spacing: 2px;
+    overflow: auto;
+    
+    }
+    
+.nahar{
+    
+   
+    float: right;
+    width: 25%;
+    height: 25%;
+    border-radius: 50%;
+}
+.iymek{
+    text-align: right;
+    margin: 5% 25% 5% 25%;
+    word-spacing: 2px;
+    overflow: auto;
+
+}
+
+.at{
+    font-family: fantasy;
+}
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 150%;
+   height: 30px;
+   width: 150px;
+   margin: auto;
+    text-decoration: none;
+    text-align: center;
+  }
+  
+  
